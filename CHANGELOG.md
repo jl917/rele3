@@ -1,3 +1,10 @@
+## [1.8.1](https://github.com/julong1988/rele3/compare/v1.8.0...v1.8.1) (2021-11-10)
+
+
+### Bug Fixes
+
+* **버튼:** 인푸트 개선 완 ([149a024](https://github.com/julong1988/rele3/commit/149a024a3ead161c3efbdcfebbc349a0def3ce97)), closes [#4](https://github.com/julong1988/rele3/issues/4) [#3](https://github.com/julong1988/rele3/issues/3)
+
 # [1.8.0](https://github.com/julong1988/rele3/compare/v1.7.0...v1.8.0) (2021-11-10)
 
 
