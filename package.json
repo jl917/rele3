@@ -1,0 +1,28 @@
+{
+  "name": "@julong/rele3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julong1988/rele3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julong1988/rele3/issues"
+  },
+  "homepage": "https://github.com/julong1988/rele3#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.4.4"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
