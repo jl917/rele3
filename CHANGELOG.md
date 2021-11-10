@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/julong1988/rele3/compare/v1.8.1...v1.8.2) (2021-11-10)
+
+
+### Bug Fixes
+
+* title개선 [#5](https://github.com/julong1988/rele3/issues/5) ([88fd2f5](https://github.com/julong1988/rele3/commit/88fd2f5ad0f68ca8d1e97907c392c3a5568d7895))
+
 ## [1.8.1](https://github.com/julong1988/rele3/compare/v1.8.0...v1.8.1) (2021-11-10)
 
 
