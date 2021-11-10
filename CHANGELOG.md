@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/julong1988/rele3/compare/v1.1.0...v1.2.0) (2021-11-10)
+
+
+### Bug Fixes
+
+* **common:** 버튼 오류2 수정 ([eecc381](https://github.com/julong1988/rele3/commit/eecc38127b635dad66b95d292c18c7f21b2072be))
+
+
+### Features
+
+* feature2 기능 ([660c21a](https://github.com/julong1988/rele3/commit/660c21ab7d878188c0b54b0424aa7ff7e0d9c8d2))
+
 # [1.1.0](https://github.com/julong1988/rele3/compare/v1.0.0...v1.1.0) (2021-11-10)
 
 
