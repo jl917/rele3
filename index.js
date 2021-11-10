@@ -12,3 +12,4 @@ console.log('feat06');
 console.log('cmtest')
 
 console.log('버튼 픽스')
+console.log('input fix')
