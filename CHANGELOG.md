@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/julong1988/rele3/compare/v1.8.2...v1.8.3) (2021-11-10)
+
+
+### Bug Fixes
+
+* title edit ([6223758](https://github.com/julong1988/rele3/commit/6223758d39cd5a4a2f567a1dff7fcaaa5114e526)), closes [#5](https://github.com/julong1988/rele3/issues/5)
+
 ## [1.8.2](https://github.com/julong1988/rele3/compare/v1.8.1...v1.8.2) (2021-11-10)
 
 
