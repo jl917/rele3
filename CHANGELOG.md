@@ -1,3 +1,10 @@
+# [1.6.0-next.1](https://github.com/julong1988/rele3/compare/v1.5.0...v1.6.0-next.1) (2021-11-10)
+
+
+### Features
+
+* 05dfdf ([a1d0417](https://github.com/julong1988/rele3/commit/a1d0417f71986d26716856f7375ee6ae14d998f7))
+
 # [1.4.0-next.1](https://github.com/julong1988/rele3/compare/v1.3.0...v1.4.0-next.1) (2021-11-10)
 
 
