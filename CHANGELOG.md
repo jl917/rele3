@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/julong1988/rele3/compare/v1.7.0...v1.8.0) (2021-11-10)
+
+
+### Features
+
+* **common:** 버튼 개선 ([b47a8bb](https://github.com/julong1988/rele3/commit/b47a8bb8ae0cbf23b1aab779414759a9b863dab3)), closes [#3](https://github.com/julong1988/rele3/issues/3)
+
 # [1.7.0](https://github.com/julong1988/rele3/compare/v1.6.0...v1.7.0) (2021-11-10)
 
 
