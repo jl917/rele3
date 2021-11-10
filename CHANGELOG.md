@@ -1,3 +1,10 @@
+# [1.6.0-next.2](https://github.com/julong1988/rele3/compare/v1.6.0-next.1...v1.6.0-next.2) (2021-11-10)
+
+
+### Features
+
+* 06배포 ([4475e68](https://github.com/julong1988/rele3/commit/4475e683e5c6790b574c0de0999624f110066515))
+
 # [1.6.0-next.1](https://github.com/julong1988/rele3/compare/v1.5.0...v1.6.0-next.1) (2021-11-10)
 
 
