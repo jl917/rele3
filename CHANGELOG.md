@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/julong1988/rele3/compare/v1.6.0...v1.7.0) (2021-11-10)
+
+
+### Features
+
+* Summarize changes in around 50 characters or less ([6fed37e](https://github.com/julong1988/rele3/commit/6fed37eba00a743797bef6bddebdf096961ced24)), closes [#123](https://github.com/julong1988/rele3/issues/123) [#456](https://github.com/julong1988/rele3/issues/456) [#789](https://github.com/julong1988/rele3/issues/789)
+
 # [1.6.0](https://github.com/julong1988/rele3/compare/v1.5.0...v1.6.0) (2021-11-10)
 
 
