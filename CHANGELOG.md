@@ -1,3 +1,10 @@
+## [1.8.4](https://github.com/jl917/rele3/compare/v1.8.3...v1.8.4) (2021-11-13)
+
+
+### Bug Fixes
+
+* julong1988 => jl917 ([6e2492d](https://github.com/jl917/rele3/commit/6e2492d8a235cc27f9a54677092117c45d37f631))
+
 ## [1.8.3](https://github.com/jl917/rele3/compare/v1.8.2...v1.8.3) (2021-11-10)
 
 
