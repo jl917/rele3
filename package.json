@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/julong1988/rele3.git"
+    "url": "git+https://github.com/jl917/rele3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/julong1988/rele3/issues"
+    "url": "https://github.com/jl917/rele3/issues"
   },
-  "homepage": "https://github.com/julong1988/rele3#readme",
+  "homepage": "https://github.com/jl917/rele3#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
