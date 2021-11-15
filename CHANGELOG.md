@@ -1,3 +1,10 @@
+## [1.8.5](https://github.com/jl917/rele3/compare/v1.8.4...v1.8.5) (2021-11-15)
+
+
+### Bug Fixes
+
+* 버그 수정 [#7](https://github.com/jl917/rele3/issues/7) ([4fd7352](https://github.com/jl917/rele3/commit/4fd7352524cbd243cb4d9e306d6605414727ed2b))
+
 ## [1.8.4](https://github.com/jl917/rele3/compare/v1.8.3...v1.8.4) (2021-11-13)
 
 
