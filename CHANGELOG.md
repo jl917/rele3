@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/jl917/rele3/compare/v1.9.0...v1.9.1) (2021-11-17)
+
+
+### Bug Fixes
+
+* patch update ([de2a42f](https://github.com/jl917/rele3/commit/de2a42fedd0322d8fd1cfbda214ace35efe8f7b7))
+
 # [1.9.0](https://github.com/jl917/rele3/compare/v1.8.5...v1.9.0) (2021-11-15)
 
 
