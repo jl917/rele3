@@ -20,3 +20,5 @@ cosnole.log('auto close')
 cosnole.log('new feature')
 
 cosnole.log('patch');
+
+cosnole.log('ci test');
