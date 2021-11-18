@@ -1,3 +1,10 @@
+## [1.10.2](https://github.com/jl917/rele3/compare/v1.10.1...v1.10.2) (2021-11-18)
+
+
+### Bug Fixes
+
+* local test ([98d140d](https://github.com/jl917/rele3/commit/98d140d671418ee42dce97431ed6149a6af03af6))
+
 ## [1.10.1](https://github.com/jl917/rele3/compare/v1.10.0...v1.10.1) (2021-11-18)
 
 
