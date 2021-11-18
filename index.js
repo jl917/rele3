@@ -22,3 +22,4 @@ cosnole.log('new feature')
 cosnole.log('patch');
 
 cosnole.log('ci test');
+cosnole.log('ci test2');
