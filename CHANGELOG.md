@@ -1,3 +1,15 @@
+# [1.10.0](https://github.com/jl917/rele3/compare/v1.9.1...v1.10.0) (2021-11-18)
+
+
+### Bug Fixes
+
+* no ci fix ([bea63e3](https://github.com/jl917/rele3/commit/bea63e314a1eb6811f58d9b7eb1dba4110670312))
+
+
+### Features
+
+* no ci feat ([15bdadd](https://github.com/jl917/rele3/commit/15bdadd4e7ce30da1e61ab43d325e94e5ee27582))
+
 ## [1.9.1](https://github.com/jl917/rele3/compare/v1.9.0...v1.9.1) (2021-11-17)
 
 
