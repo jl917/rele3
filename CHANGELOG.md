@@ -1,3 +1,11 @@
+## [1.10.4](https://github.com/jl917/rele3/compare/v1.10.3...v1.10.4) (2021-11-19)
+
+
+### Bug Fixes
+
+* 버튼수정 ([33f91c5](https://github.com/jl917/rele3/commit/33f91c5b70cd1d94a4ef9e383270bab124f14028))
+* 버튼수정2 ([6ce910e](https://github.com/jl917/rele3/commit/6ce910e6d0927904220a87df1ba6c94f82217297))
+
 ## [1.10.3](https://github.com/jl917/rele3/compare/v1.10.2...v1.10.3) (2021-11-18)
 
 
