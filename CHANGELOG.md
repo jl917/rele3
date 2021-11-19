@@ -1,3 +1,10 @@
+## [1.10.5](https://github.com/jl917/rele3/compare/v1.10.4...v1.10.5) (2021-11-19)
+
+
+### Bug Fixes
+
+* package 라이센스 수정 ISC => MIT ([331b7a4](https://github.com/jl917/rele3/commit/331b7a4d7760f157a101d501879a858439cf8423))
+
 ## [1.10.4](https://github.com/jl917/rele3/compare/v1.10.3...v1.10.4) (2021-11-19)
 
 
