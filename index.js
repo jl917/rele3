@@ -24,3 +24,4 @@ cosnole.log('patch');
 cosnole.log('ci test');
 cosnole.log('ci test2');
 cosnole.log('버튼수정.');
+console.log('major test')
