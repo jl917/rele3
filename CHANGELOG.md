@@ -1,3 +1,10 @@
+## [1.10.7](https://github.com/jl917/rele3/compare/v1.10.6...v1.10.7) (2021-12-02)
+
+
+### Bug Fixes
+
+* README.md ([2b86adf](https://github.com/jl917/rele3/commit/2b86adf43d23916cb2a8a7dfec78cbbde2398a81))
+
 ## [1.10.6](https://github.com/jl917/rele3/compare/v1.10.5...v1.10.6) (2021-12-02)
 
 
