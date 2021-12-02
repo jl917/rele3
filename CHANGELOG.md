@@ -1,3 +1,11 @@
+## [1.10.6](https://github.com/jl917/rele3/compare/v1.10.5...v1.10.6) (2021-12-02)
+
+
+### Bug Fixes
+
+* github release assets test ([40bb2d7](https://github.com/jl917/rele3/commit/40bb2d723dde09b35dd301168a456771650e8e13))
+* release json 수정 ([5f8b9fa](https://github.com/jl917/rele3/commit/5f8b9fa1c26703edc50002557f57cf23c010e6c2))
+
 ## [1.10.5](https://github.com/jl917/rele3/compare/v1.10.4...v1.10.5) (2021-11-19)
 
 
