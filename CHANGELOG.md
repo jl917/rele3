@@ -1,3 +1,10 @@
+## [1.10.8](https://github.com/jl917/rele3/compare/v1.10.7...v1.10.8) (2021-12-06)
+
+
+### Bug Fixes
+
+* dao13 ([527bb68](https://github.com/jl917/rele3/commit/527bb6825db91962c9f38efd5bfffc283d122a9b))
+
 ## [1.10.7](https://github.com/jl917/rele3/compare/v1.10.6...v1.10.7) (2021-12-02)
 
 
