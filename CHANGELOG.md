@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/jl917/rele3/compare/v1.10.8...v1.11.0) (2021-12-16)
+
+
+### Features
+
+* 버전업 테스트 ([efb00a9](https://github.com/jl917/rele3/commit/efb00a92a6a8cd51064aefc615399d78be9d5904)), closes [#8](https://github.com/jl917/rele3/issues/8)
+
 ## [1.10.8](https://github.com/jl917/rele3/compare/v1.10.7...v1.10.8) (2021-12-06)
 
 
