@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/jl917/rele3/compare/v1.11.1...v1.11.2) (2022-12-09)
+
+
+### Bug Fixes
+
+*  html data 속성 오류 수정 ([1ec165b](https://github.com/jl917/rele3/commit/1ec165bc8fe89c9d423ccab88ff9b5d7dcb3a4e9))
+
 ## [1.11.1](https://github.com/jl917/rele3/compare/v1.11.0...v1.11.1) (2021-12-16)
 
 
