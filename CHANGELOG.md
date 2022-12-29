@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/jl917/rele3/compare/v1.11.2...v1.12.0) (2022-12-29)
+
+
+### Features
+
+* git tag 테스트 ([f3f17f9](https://github.com/jl917/rele3/commit/f3f17f908ce70e25caab0c2ec72841b52d21b36b))
+
 ## [1.11.2](https://github.com/jl917/rele3/compare/v1.11.1...v1.11.2) (2022-12-09)
 
 
