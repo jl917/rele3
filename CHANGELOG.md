@@ -1,3 +1,10 @@
+# [1.6.0-next.3](https://github.com/julong1988/rele3/compare/v1.6.0-next.2...v1.6.0-next.3) (2023-03-02)
+
+
+### Bug Fixes
+
+* add boot css ([bec87d5](https://github.com/julong1988/rele3/commit/bec87d5794c6176ab4ded7cf91fec9ccc66ec1c1))
+
 # [1.6.0-next.2](https://github.com/julong1988/rele3/compare/v1.6.0-next.1...v1.6.0-next.2) (2021-11-10)
 
 
