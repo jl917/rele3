@@ -13,3 +13,9 @@ jobs:
           ISSUE_URL: ${{ github.event.issue.html_url }}
         run: |
           gh issue edit $ISSUE_URL --add-label "새로운이슈"
+      - name: 'Auto-assign issue'
+          uses: pozil/auto-assign-issue@v1
+          with:
+              assignees: jl917
+              numOfAssignee: 1
+              allowSelfAssign: true
