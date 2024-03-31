@@ -1,3 +1,4 @@
+name: issuesOpenAutoAdd
 on:
   issues:
     types:
