@@ -1,4 +1,5 @@
 name: issuesOpenAutoAdd
+
 on:
   issues:
     types:
@@ -13,6 +14,7 @@ jobs:
           ISSUE_URL: ${{ github.event.issue.html_url }}
         run: |
           gh issue edit $ISSUE_URL --add-label "새로운이슈"
+
   auto-assign:
         runs-on: ubuntu-latest
         permissions:
