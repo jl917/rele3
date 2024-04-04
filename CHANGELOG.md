@@ -1,3 +1,12 @@
+## [1.12.1](https://github.com/jl917/rele3/compare/v1.12.0...v1.12.1) (2024-04-04)
+
+
+### Bug Fixes
+
+* jira노트 제거 ([062b526](https://github.com/jl917/rele3/commit/062b5263b7e10aedd57d7eb15ebb203c0a54423b))
+* releserc수정 ([08f323e](https://github.com/jl917/rele3/commit/08f323efc3f6d0f43804ee75040e085ee7bdb40a))
+* 지라 노트 테스트 ([c4a0bca](https://github.com/jl917/rele3/commit/c4a0bca383466b0068ca75bd3e7f4315ee643c6f))
+
 # [1.12.0](https://github.com/jl917/rele3/compare/v1.11.2...v1.12.0) (2022-12-29)
 
 
