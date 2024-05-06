@@ -23,10 +23,11 @@ jobs:
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-      # - name: Install jnpkg
-      #   run: npm install -g jnpkg
-      - name: Install dependencies
+      - if: steps.npm-cache.outputs.cache-hit == 'true'
+        run: echo 'cache성공'
+      - if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci
+
       # - name: Build
       #   run: jnpkg build
       - name: Release
