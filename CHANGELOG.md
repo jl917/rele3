@@ -1,3 +1,10 @@
+## [1.12.7](https://github.com/jl917/rele3/compare/v1.12.6...v1.12.7) (2024-05-06)
+
+
+### Bug Fixes
+
+* cache1 ([2c63667](https://github.com/jl917/rele3/commit/2c636677cec20c42cae5a34c1d68521263bf2022))
+
 ## [1.12.6](https://github.com/jl917/rele3/compare/v1.12.5...v1.12.6) (2024-05-06)
 
 
