@@ -24,5 +24,14 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.16",
+    "ant-design-vue": "^4.2.1",
+    "antd": "^5.17.0",
+    "exceljs": "^4.4.0",
+    "vuetify": "^3.6.3"
   }
 }
