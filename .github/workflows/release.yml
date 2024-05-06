@@ -24,9 +24,9 @@ jobs:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
       - if: steps.npm-cache.outputs.cache-hit == 'true'
-        run: echo 'cache성공'
-      - if: steps.npm-cache.outputs.cache-hit != 'true'
         run: npm ci
+      - if: steps.npm-cache.outputs.cache-hit != 'true'
+        run: echo 'cache성공'
 
       # - name: Build
       #   run: jnpkg build
