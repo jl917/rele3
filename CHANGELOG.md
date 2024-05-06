@@ -1,3 +1,10 @@
+## [1.12.5](https://github.com/jl917/rele3/compare/v1.12.4...v1.12.5) (2024-05-06)
+
+
+### Bug Fixes
+
+* cache 적중 테스트 ([676c9fc](https://github.com/jl917/rele3/commit/676c9fc42a813b5e4e8f0d3b1c69f87e2550e225))
+
 ## [1.12.4](https://github.com/jl917/rele3/compare/v1.12.3...v1.12.4) (2024-05-06)
 
 
