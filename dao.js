@@ -1,5 +1,5 @@
 module.exports = {
   name: 'lang',
   age: 14,
-  content: 'blabla~~'
+  content: 'blabla~~2'
 }
