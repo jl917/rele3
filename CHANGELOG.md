@@ -1,3 +1,10 @@
+## [1.12.9](https://github.com/jl917/rele3/compare/v1.12.8...v1.12.9) (2024-08-02)
+
+
+### Bug Fixes
+
+* Update dao.js ([5d1cf02](https://github.com/jl917/rele3/commit/5d1cf02965bcca1e2baf39fddaf3a95b2b40668b))
+
 ## [1.12.8](https://github.com/jl917/rele3/compare/v1.12.7...v1.12.8) (2024-05-06)
 
 
