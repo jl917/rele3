@@ -1,3 +1,10 @@
+## [1.12.15](https://github.com/jl917/rele3/compare/v1.12.14...v1.12.15) (2024-11-07)
+
+
+### Bug Fixes
+
+* name ([4e07cf0](https://github.com/jl917/rele3/commit/4e07cf0168c66b1da66d90946fcf83401859f3c6))
+
 ## [1.12.14](https://github.com/jl917/rele3/compare/v1.12.13...v1.12.14) (2024-11-07)
 
 
