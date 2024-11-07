@@ -1,3 +1,10 @@
+## [1.12.12](https://github.com/jl917/rele3/compare/v1.12.11...v1.12.12) (2024-11-07)
+
+
+### Bug Fixes
+
+* npmrc ([22c765a](https://github.com/jl917/rele3/commit/22c765a58506ccc35c2417e82cfb38097e853ead))
+
 ## [1.12.11](https://github.com/jl917/rele3/compare/v1.12.10...v1.12.11) (2024-11-07)
 
 
