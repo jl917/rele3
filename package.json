@@ -23,8 +23,8 @@
     "semantic-release": "^17.4.4"
   },
   "publishConfig": {
-    "access": "public"
-    "registry": "https://npm.pkg.github.com/",
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
