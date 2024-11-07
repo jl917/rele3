@@ -1,3 +1,11 @@
+## [1.12.11](https://github.com/jl917/rele3/compare/v1.12.10...v1.12.11) (2024-11-07)
+
+
+### Bug Fixes
+
+* package 타켓 변경 ([21a6d8e](https://github.com/jl917/rele3/commit/21a6d8eb4938218fadbbbc5b322cb0f4d21c18ab))
+* Update package.json ([6cfcf3c](https://github.com/jl917/rele3/commit/6cfcf3c34556f477e75ea6cb57538b1f8b22ef5f))
+
 ## [1.12.10](https://github.com/jl917/rele3/compare/v1.12.9...v1.12.10) (2024-10-08)
 
 
