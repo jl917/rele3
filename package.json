@@ -24,6 +24,7 @@
   },
   "publishConfig": {
     "access": "public"
+    "registry": "https://npm.pkg.github.com/",
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
