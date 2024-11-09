@@ -1,3 +1,10 @@
+## [1.14.4](https://github.com/jl917/rele3/compare/v1.14.3...v1.14.4) (2024-11-09)
+
+
+### Bug Fixes
+
+* rc파일 업데이트 ([e9ced3c](https://github.com/jl917/rele3/commit/e9ced3cf83ea260a50b3652def8455da45c4b399))
+
 ## [1.14.3](https://github.com/jl917/rele3/compare/v1.14.2...v1.14.3) (2024-11-09)
 
 
