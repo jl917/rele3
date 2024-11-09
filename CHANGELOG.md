@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/jl917/rele3/compare/v1.13.1...v1.14.0) (2024-11-09)
+
+
+### Features
+
+* 123a ([ccd52c3](https://github.com/jl917/rele3/commit/ccd52c38fcc701f7e155c59e8653a146427b7725))
+
 ## [1.13.1](https://github.com/jl917/rele3/compare/v1.13.0...v1.13.1) (2024-11-09)
 
 
