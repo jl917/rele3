@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/jl917/rele3/compare/v1.13.0...v1.13.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* 네임 변경 ([fdbb108](https://github.com/jl917/rele3/commit/fdbb108aecc7941453daa72a92559a9ae61508dc))
+
 # [1.13.0](https://github.com/jl917/rele3/compare/v1.12.15...v1.13.0) (2024-11-09)
 
 
