@@ -22,10 +22,6 @@
     "@semantic-release/git": "^9.0.0",
     "semantic-release": "^17.4.4"
   },
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
-  },
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
