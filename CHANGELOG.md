@@ -1,3 +1,10 @@
+## [1.14.1](https://github.com/jl917/rele3/compare/v1.14.0...v1.14.1) (2024-11-09)
+
+
+### Bug Fixes
+
+* 33 ([257a4f3](https://github.com/jl917/rele3/commit/257a4f3fea425f356e1103d6bab48818f478535b))
+
 # [1.14.0](https://github.com/jl917/rele3/compare/v1.13.1...v1.14.0) (2024-11-09)
 
 
