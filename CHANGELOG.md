@@ -1,3 +1,15 @@
+# [1.13.0](https://github.com/jl917/rele3/compare/v1.12.15...v1.13.0) (2024-11-09)
+
+
+### Bug Fixes
+
+* release1 ([70766cc](https://github.com/jl917/rele3/commit/70766cc8a1d3dc53b23b01950c0afa26b9e331e6))
+
+
+### Features
+
+* 배포 테스트 ([fb15ff4](https://github.com/jl917/rele3/commit/fb15ff4b9de8b2066d2cfe84bb882b9a370c930b))
+
 ## [1.12.15](https://github.com/jl917/rele3/compare/v1.12.14...v1.12.15) (2024-11-07)
 
 
