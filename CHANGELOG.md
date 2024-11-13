@@ -1,3 +1,15 @@
+## [1.14.6](https://github.com/jl917/rele3/compare/v1.14.5...v1.14.6) (2024-11-13)
+
+
+### Bug Fixes
+
+* abc ([f12849b](https://github.com/jl917/rele3/commit/f12849bf9da5b89fb14a845537cfe58fb4caa6a7))
+* typography theme 명 변경 ([d5fd28a](https://github.com/jl917/rele3/commit/d5fd28a3835fc648fb359d3a16ad70cc0c1acc65))
+* Upd2 ([5ad55e5](https://github.com/jl917/rele3/commit/5ad55e5099e1ab06d6b8cc1b56b1dac296fde616))
+* Update .releaserc.json ([37a7340](https://github.com/jl917/rele3/commit/37a7340bebe28548b5b75ed42b03346f8d975885))
+* Update 1 ([5e884d9](https://github.com/jl917/rele3/commit/5e884d90b982c8ec95b53e92473d0dbed1064dc4))
+* update1 ([030b8ec](https://github.com/jl917/rele3/commit/030b8ec7b97f2d812cf515fcf8e11dbfe4a92ded))
+
 ## [1.14.5](https://github.com/jl917/rele3/compare/v1.14.4...v1.14.5) (2024-11-11)
 
 
