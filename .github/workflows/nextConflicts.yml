@@ -1,0 +1,44 @@
+name: Resolve Conflicts on Next Merge
+
+on:
+  pull_request:
+    branches:
+      - next # beta 브랜치로 병합 요청(PR)이 열릴 때 실행
+
+jobs:
+  resolve-conflicts:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. GitHub 저장소 체크아웃
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # 2. 충돌 자동 해결
+      - name: Resolve conflicts
+        run: |
+          # Merge PR into beta with conflict resolution
+          git fetch origin beta
+          git checkout beta
+
+          # 병합 수행 (충돌 시 계속 진행)
+          git merge --no-commit --no-ff ${{ github.head_ref }} || true
+
+          # 충돌 파일에 대해 beta 브랜치의 내용을 유지
+          git checkout --ours package.json
+          git checkout --ours CHANGELOG.md
+
+          # 충돌 해결 완료 상태로 표시
+          git add package.json CHANGELOG.md
+
+          # 병합 커밋 생성
+          git commit -m "Merge PR #${{ github.event.number }} into next with resolved conflicts"
+
+      # 3. 병합 커밋 푸시
+      - name: Push resolved conflicts
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: next
