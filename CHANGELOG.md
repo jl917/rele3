@@ -1,3 +1,10 @@
+## [1.15.1](https://github.com/jl917/rele3/compare/v1.15.0...v1.15.1) (2025-01-17)
+
+
+### Bug Fixes
+
+* 123 ([9a718ca](https://github.com/jl917/rele3/commit/9a718ca00d863553432ae0e88ba1421a0480a643))
+
 ## [1.15.0](https://github.com/jl917/rele3/compare/v1.14.9...v1.15.0) (2025-01-17)
 
 
