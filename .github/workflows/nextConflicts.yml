@@ -3,7 +3,7 @@ name: Resolve Conflicts on Next Merge
 on:
   pull_request:
     branches:
-      - next # beta 브랜치로 병합 요청(PR)이 열릴 때 실행
+      - next # next 브랜치로 병합 요청(PR)이 열릴 때 실행
 
 jobs:
   resolve-conflicts:
@@ -19,14 +19,14 @@ jobs:
       # 2. 충돌 자동 해결
       - name: Resolve conflicts
         run: |
-          # Merge PR into beta with conflict resolution
-          git fetch origin beta
-          git checkout beta
+          # Merge PR into next with conflict resolution
+          git fetch origin next
+          git checkout next
 
           # 병합 수행 (충돌 시 계속 진행)
           git merge --no-commit --no-ff ${{ github.head_ref }} || true
 
-          # 충돌 파일에 대해 beta 브랜치의 내용을 유지
+          # 충돌 파일에 대해 next 브랜치의 내용을 유지
           git checkout --ours package.json
           git checkout --ours CHANGELOG.md
 
