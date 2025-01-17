@@ -1,3 +1,10 @@
+## [1.16.0-next.1](https://github.com/jl917/rele3/compare/v1.15.2-next.1...v1.16.0-next.1) (2025-01-17)
+
+
+### Features
+
+* 123 ([9c2ce2f](https://github.com/jl917/rele3/commit/9c2ce2f5a7458f2d64b7c8fdf5a5854889e884a6))
+
 ## [1.15.2-next.1](https://github.com/jl917/rele3/compare/v1.15.1...v1.15.2-next.1) (2025-01-17)
 
 
